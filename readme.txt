@@ -1,4 +1,5 @@
-
+The problem which is being targeted is 
+4. Problem Statement: Auto Dealer Database
 
 
 The auto dealers data is based on two cities, Delhi and Bangalore, and is being crawled from justdial.com
@@ -15,7 +16,7 @@ The output from this file is saved as a csv file and then the links are crawled 
 Part 2:
 autoDealers.py scrapes the data from the justDial database, and also queries alexa.com to get the alexa score for that particular website (if it exists for that particular dealer). If it doesn't exist, it gets the default scores
 
-Below is the mapping of the features which gives an overview of how the required features are achieved which would be used to model the trustworthyness of the dealer and give him a rank.
+Below is the mapping of the features which gives an overview of how the required features are achieved which would be used to model the bank’s dealer strategy.
 (In order, as found in the CSV)
 
 dealer_name 
